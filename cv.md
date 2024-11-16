@@ -18,7 +18,9 @@ a positive and safe environment.
 * September 2015 — July 2020
 * During my Master’s studies in Pedagogy, I gained a deep understanding of psychology, educational theories. I also had the opportunity to write a publicistic article, which honed my research and communication skills.The program provided me with both theoretical knowledge and practical skills essential for creating effective learning environments.Through teamwork and collaborative projects, I enhanced my ability to work with others and quickly adapt to new ideas and strategies.
 # Courses
-* English language course, Englex school,
-  September 2021 — August 2024
-* Programming for girls, IT school,
- December 2022 — August 2024
+***English language course, Englex school***
+  
+ * September 2021 — August 2024 
+
+  ***Programming for girls, IT school***
+ * December 2022 — August 2024
